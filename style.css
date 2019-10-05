@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 45px;
+    padding-bottom: 0px;
+    opacity: 0.6;
+}
+
+.a {
+    text-align: center;
+    padding-bottom: 50px;
+    opacity: 0.8;
+}
+
+.b {
+    text-align: center;
+    margin-bottom: 20px;
+    opacity: 0.8;
+    transition: transform .2s;
+    
+
+}
+
+
+#aa:hover {
+    transform: scale(0.9);
+  }
+
+  #bb:hover {
+    transform: scale(0.9);
+  }
+
+  #cc:hover {
+    transform: scale(0.9);
+  }
+
+  #dd:hover {
+    transform: scale(0.9);
+  }
+
+footer {
+    padding:50px;
+    background-color: black;
+    opacity: 0.6;
+   background-image:url('https://media.giphy.com/media/6oeRBKg7mwEZnSnYkn/giphy.gif'); background-repeat:repeat; 
+
+}
+
+body { background-image:url('https://thumbs.gfycat.com/UnrealisticMintyHamadryas-size_restricted.gif'); background-repeat:repeat; }
+
+
+
