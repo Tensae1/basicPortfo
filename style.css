@@ -51,17 +51,17 @@ body { background-image:url('https://thumbs.gfycat.com/UnrealisticMintyHamadryas
 
 
 @media only screen and (min-width: 768px) {
-.wrapper {
+.a {
    width: 600px;
    margin: 0 auto;
 }
-h2 {
+.aa {
    padding: 20px 0px 0px;
 }
-p {
+.b {
    padding: 20px 0px 0px;
 }
-.me {
+.bb {
    padding-top: 30px;
 }
 }
